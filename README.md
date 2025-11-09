@@ -1,15 +1,3 @@
----
-title: AltSync
-emoji: 😻
-colorFrom: blue
-colorTo: pink
-sdk: gradio
-sdk_version: 5.32.0
-app_file: app.py
-pinned: false
----
-
-
 # 📊 AltSync Predictor
 
 **AltSync Predictor** is a crypto sensitivity forecasting tool that estimates how an altcoin may move based on an expected % move in Bitcoin (BTC). It uses real historical data and statistical modeling (beta correlation) to calculate each altcoin’s price sensitivity to BTC.
@@ -100,11 +88,12 @@ BASE_URL = "https://min-api.cryptocompare.com"
 
 ## 🧑‍💻 Author
 
-**M. Sufiyan**  
-🚀 GitHub: [@notmsufiyan](https://github.com/notmsufiyan)
+**WizzTrades**  
+🚀 GitHub: [@wizztrades](https://github.com/wizztrades)
 
 ---
 
 ## 📄 License
+
 
 MIT License – free to use, modify, and share.
